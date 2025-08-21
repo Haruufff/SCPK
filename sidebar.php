@@ -4,7 +4,7 @@
       <div>
         <div class="brand-logo d-flex align-items-center justify-content-between">
           <a href="dashboard.php" class="text-nowrap logo-img">
-            <h3><b>SPK-GAMELAB.ID</b></h3>
+            <h3><b>TITLE</b></h3>
           </a>
           <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
             <i class="ti ti-x fs-8"></i>
